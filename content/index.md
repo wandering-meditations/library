@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Library
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I am a wanderer.
+
+This is my library.
+
+Enter if you dare...
