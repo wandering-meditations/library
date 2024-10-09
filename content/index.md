@@ -1,13 +1,13 @@
 ---
+---
 title: Welcome to my Library
 ---
 
-I am a wanderer.
+I am a wanderer, and this is my library. Feel free to take a look around.
 
-This is my library.
 
-Enter if you dare...
-
-# Start Here
+#### Start Here
 
 Check out my [[favourites]]
+
+Check out my [[topics]] page for a list of topics to explore
