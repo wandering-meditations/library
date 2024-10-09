@@ -5,7 +5,7 @@ tags:
   - fiction
   - favourite
 ---
-
+![[Pasted image 20241009135744.png|200]]
 # Favourite Quotes
 > "Nothing is so necessary for a young man as the society of clever women" p. 16
 
