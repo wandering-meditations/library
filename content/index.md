@@ -10,4 +10,4 @@ Enter if you dare...
 
 # Start Here
 
-Check out my [[Favourites]]
+Check out my [[favourites]]
