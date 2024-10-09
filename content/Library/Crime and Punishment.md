@@ -5,6 +5,7 @@ tags:
   - fiction
   - favourite
 ---
+![[Pasted image 20241009135138.png|200]]
 NOTE: I lost about half of my notes while writing them, hence why my notes only cover the first half of the book.
 
 # Favourite Quotes

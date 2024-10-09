@@ -6,6 +6,7 @@ tags:
   - afghanistan
   - history
 ---
+![[Pasted image 20241009135038.png|200]]
 # Favourite Quotes
 > "Yet the people endure, as steadfast as the Hindu Kush mountain range." - Conclusion
 

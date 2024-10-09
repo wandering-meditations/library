@@ -5,7 +5,7 @@ tags:
   - fiction
   - favourite
 ---
-
+![[Pasted image 20241009135232.png|200]]
 # Favourite Quotes
 > "I despise the zeal of the devout, but I have never said that the One (God) was two." p. 12[^1]
 

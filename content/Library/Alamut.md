@@ -5,6 +5,7 @@ tags:
   - fiction
   - favourite
 ---
+![[Pasted image 20241009135102.png|200]]
 # Favourite Quotes
 > "Nothing is true, everything is permitted" - The Supreme Ismaili Motto[^1]
 

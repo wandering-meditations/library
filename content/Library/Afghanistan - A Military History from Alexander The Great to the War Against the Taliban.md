@@ -6,6 +6,7 @@ tags:
   - afghanistan
   - history
 ---
+![[Pasted image 20241009134752.png|200]]
 # Favourite Quotes
 > "when the Afghans have acted in common cause, their country - though often ravaged -  has never been held down by a foreign power; on the other hand, evidence indicates that Afghanistan is only capable of unity when its people respond to a foreign threat" - p. 4
 

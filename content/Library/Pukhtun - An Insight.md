@@ -6,7 +6,7 @@ tags:
   - afghanistan
   - history
 ---
-
+![[Pasted image 20241009135215.png|200]]
 # Summary
 ## Chapter 1: History
 - 3 main cities of the Pashtuns: Kandahar, Jalalabad, Peshawar
