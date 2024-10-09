@@ -1,5 +1,5 @@
 ---
-title: Book
+title: The Afghanistan Papers - A Secret History of the War
 author: Craig Whitlock
 tags:
   - non-fiction

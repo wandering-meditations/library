@@ -5,6 +5,7 @@ tags:
   - fiction
   - favourite
 ---
+![[Pasted image 20241009131208.png|200]]
 # Favourite Quotes
 > "Like a compass needle that points north, a man's accusing finger always finds a woman. Always." p. 7
 
