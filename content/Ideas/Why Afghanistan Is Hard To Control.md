@@ -30,7 +30,6 @@ tags:
 	- the Taliban
 - Abdur Rahman was successful because he never tried to change Afghan society, his only focus was on taxation and security, and of course staying in power
 
-# Reference(s)
 [^1]: [[History's Greatest Lies]], [[Afghanistan - Graveyard of Empires]], [[Afghanistan - A Military History from Alexander The Great to the War Against the Taliban]]
 [^2]: p. 173 [[Afghanistan A Cultural and Political History]]
 [^3]: [[Historical Atlas of Eastern Europe#^afb9f9]]
