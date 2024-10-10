@@ -4,7 +4,13 @@ tags:
   - afghanistan 
 ---
 
-# Description
+![[Pasted image 20241009202534.png|500]]
+> ^ Landscape of the Wakhan Corridor in Badakhshan.
+> 
+> The Wakhan Corridor in the province of Badakhshan connects Afghanistan to China. Looking at a map, one may think why this piece of land even belongs to Afghanistan as it looks out of place (it looks like a long skinny hook coming out of the north-east border). Long story short, The British Empire gave this land to Afghanistan in the 1890s as part of the Durand Line Agreement. The reason was so there could be a buffer zone between themselves (British India) and Russian Turkestan (modern Tajikistan) as the Russian Empire was their greatest enemy at the time.
+
+<br>
+
 ## Afghanistan's Place in the World
 - Is it part of the Middle East, Central Asia, or Southeast Asia (Indian subcontinent)? 
 	- The best answer is none. Rather it's part of "Turko-Persia", both geographically and culturally
@@ -23,6 +29,8 @@ tags:
 	- the Islamic Revolution in Iran nor the Taliban could ban Nowruz, despite wanting to due to religious reasons
 - The Turkic and Persian people have historically been very close to one another, in all aspects, there's even a proverb about it: *a hat without a head is like a Turk without a Tajik (Persian)*
 
+![[Pasted image 20241009203722.png|600]]
+> Afghanistan is a multi-ethnic country. Some of the other ethnicities not mentioned in the above image include the Aimaq and Qizilbash. Overall, Persian ethnic groups make up about 85-90% of the population with the rest being Turkic (namely Uzbek and Turkmen)
 
 # Reference(s)
 [[Afghanistan - A Cultural and Political History]]
