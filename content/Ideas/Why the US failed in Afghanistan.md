@@ -28,6 +28,5 @@ tags:
 	- the US did everything their own way, when they should've been doing the Afghan way, or at least a mix of both
 	- hand-washing project... what a joke - p. 168 [[The Afghanistan Papers - A Secret History of the War]]
 
-# Reference(s)
 [^1]: [[The Afghanistan Papers - A Secret History of the War]]
 [^2]: [[Afghanistan - A Military History from Alexander The Great to the War Against the Taliban]]
