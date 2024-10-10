@@ -1,5 +1,5 @@
 ---
-title: Soviet Involvement in Afghanistan
+title: Mujahideen Factions
 tags:
   - afghanistan 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Afghanistan Geography
+title: History of Civilization in Afghanistan
 tags:
   - afghanistan 
 ---
