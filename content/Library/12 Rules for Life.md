@@ -6,7 +6,7 @@ tags:
   - selfhelp
   - psychology
 ---
-![[Pasted image 20241010122536.png|200]]
+![[12rulesfrLife.png|200]]
 # Favourite Quotes
 > "as unfamiliar and strange as it sounds, in the deepest part of our psyche, we all want to be judged." p. xxiv Norman Doidge [^1]
 
@@ -290,9 +290,9 @@ note: subheadings within a chapter are largely my own creation and not Jordan Pe
 	- the Star of David has the downward pointing triangle of femininity and upward triangle of masculinity
 	- the Hexagram of the Hindus is very similar to that of the Jews
 	- ancient Egyptians have Osiris as god of the state while ISIS is goddess of the underworld. These are represented as twin cobras with their tails knotted together
-		- ![[Pasted image 20240509105903.png|150]]
+		- ![[OsirisAndIsis.png|150]]
 	- Mary and Jesus, as represented in the Pieta
-		- ![[Pasted image 20240509203102.png|200]]
+		- ![[JesusPieta.png|200]]
 
 ### The Way
 - Jesus said *"I am the way, and the truth and the life"* - John 14:6

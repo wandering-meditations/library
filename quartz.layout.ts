@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "X (Twitter)": "https://x.com/ruminationofman",
       Medium: "https://medium.com/@wanderingmeditations",
+      StoryGraph: "https://app.thestorygraph.com/profile/wandering_meditations",
     },
   }),
 }
