@@ -6,6 +6,7 @@ tags:
   - geography
   - history
 ---
+![[historyWorldMaps.png|200]]
 # Favourite Quotes
 > "When you see where a name has come from, you understand its meaning more quickly. For everything is known more plainly by the study of etymology" p. 100-101 - Isidore of Seville
 
@@ -35,6 +36,7 @@ tags:
 - Ptolemy, like most Greek thinkers believed the earth was a round globe - p. 20
 - the maps themselves are controversial; some believe they were added much later in the 13th century of Byzantine scribes
 - in the 3rd Century BC, Dicaearchus, a student of Aristotle made this map:
+
 ![[DicaerchusMap.png|200]]
 - hardly any world maps survive from the Roman Republic or Empire era (post Greek Alexandria) - p. 38
 	- maps in the Roman time were more practical: engineering, road maps, land division, military use, etc
@@ -47,6 +49,7 @@ tags:
 - Sicily was under Arab/Muslim rule for 100-200 years before 1072
 - The ruler of a multi-cultural Sicily in 1130 was Roger II, whose closest confidant was Al-Idrisi
 	- Roger II told Al-Idrisi to write a book on geography and maps
+
 ![[Al-Idrisis_world_map_Rotated_180_degrees.jpg|200]]
 - Al-Idrisi's map has south pointed up
 - the direction that a map points reveals a lot about the context and culture
