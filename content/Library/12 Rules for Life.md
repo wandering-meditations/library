@@ -14,7 +14,8 @@ tags:
 
 [^1]:: the desire to be judged is inherent in human nature. Why is religion so popular? Judgement is a key part of religion. Judgement by failing to achieve the ideal, and therefore feeling shame is so badly desired by us because it is what helps us to improve our lives. I wrote about this: [[Essay on Tolstoy's View of Greatness Part One#Part One Simplicity]]
 # Summary
-note: subheadings within a chapter are largely my own creation and not Jordan Peterson's.
+NOTE: subheadings within a chapter are primarily my own creation and not Jordan Peterson's.
+
 ## Forward by Norman Doidge
 - *"without rules we quickly become slaves to our passions - and there's nothing freeing about that."* p. viii
 - *"the best rules do not ultimately restrict us but instead facilitate our goals and make for fuller, freer lives."* p. viii

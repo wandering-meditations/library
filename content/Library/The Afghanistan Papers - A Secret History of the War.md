@@ -6,7 +6,7 @@ tags:
   - afghanistan
   - history
 ---
-![[Pasted image 20241009135251.png|200]]
+![[Afg_Whitlock.png|200]]
 # Favourite Quotes
 > "why did we create a centralized government in a place that has never had one?" - p. 37
 

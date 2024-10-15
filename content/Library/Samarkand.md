@@ -5,7 +5,7 @@ tags:
   - fiction
   - favourite
 ---
-![[Pasted image 20241009135232.png|200]]
+![[Samarkand_AminMaalouf.png|200]]
 # Favourite Quotes
 > "I despise the zeal of the devout, but I have never said that the One (God) was two." p. 12[^1]
 
@@ -15,7 +15,7 @@ tags:
 
 >  "Both paradise and hell are in you" p. 85
 
-> "It is to sultans and qadis that one must speak with circumlocution, not to the Creator. God is great, he has nothing to do with our airs and graces. He made me a thinker and so I think, and I have over to Him the undiluted fruits of my thought" p. 141
+> "It is to sultans and qadis that one must speak with circumlocution, not to the Creator. God is great, he has nothing to do with out airs and graces. He made me a thinker and so I think, and I have over to Him the undiluted fruits of my thought" p. 141
 
 > "On our gaudy earth there walks a man, neither rich nor poor, neither believer nor infidel, he courts no truth, venerates no law... on our gaudy earth, who is this brave and sad man?" p. 180[^3]
 

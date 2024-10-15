@@ -6,7 +6,7 @@ tags:
   - afghanistan
   - history
 ---
-![[Pasted image 20241009134752.png|200]]
+![[Afg_Tanner.png|200]]
 # Favourite Quotes
 > "when the Afghans have acted in common cause, their country - though often ravaged -  has never been held down by a foreign power; on the other hand, evidence indicates that Afghanistan is only capable of unity when its people respond to a foreign threat" - p. 4
 
@@ -22,7 +22,7 @@ A quote from a tribal Afghan in the early 1800s. This explains why the tribes we
 
 # Detailed Summary
 ## Chapter 1: Crossroad of Empires
-- sub-headings below are my own, not the authors
+NOTE: sub-headings below are my own, not the authors
 ### Geography
 - Afghanistan lies at the crossroad of major empires: Persian & Arab to the west, India to the east, and Central Asian & Turkic to the north
 - due to it's geographical location, it is a "strategically vital piece of real estate" - p. 2

@@ -6,7 +6,7 @@ tags:
   - afghanistan
   - history
 ---
-![[Pasted image 20241009131019.png|200]]
+![[Afg_Barfield.png|200]]
 # Favourite Quotes
 > "I have been a Pakistani for thirty years, a Muslim for fourteen hundred years, and a Pashtun for five thousand years." p. 20
 

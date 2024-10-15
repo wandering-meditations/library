@@ -6,7 +6,7 @@ tags:
   - afghanistan
   - history
 ---
-![[Pasted image 20241009135644.png|200]]
+![[ReturnOfTheTaliban.png|200]]
 # Favourite Quotes
 > "Afghanistan had been the graveyard of empires for a solid reason: It is not susceptible to unity" - p. 70, Biden[^1]
 

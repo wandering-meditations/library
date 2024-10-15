@@ -20,7 +20,7 @@ tags:
 - Zoroastrianism was the main religion of the Afghans
 
 ## Alexander the Great: 330 - 323BC
-![[Pasted image 20241009205908.png|150]]
+![[AlexTheGreat.png|150]]
 - Controlling Afghanistan was too difficult for Alexander (image above) so he had to leave
 - on his way out, he died somewhere around Babylon
 - Alexander left a lasting impact despite only ruling for a few years
@@ -32,13 +32,13 @@ tags:
 			- several years later he wed two more women in a joint ceremony: Stateira and Parysatis. Both were Persian princesses who were daughters of two different Persian kings (Darius and Artaxerces respectively)
 
 ## Seleucid Empire: 312 - 300BC
-![[Pasted image 20241009205818.png|100]]
+![[SeleucidEmpire.png|100]]
 - founded by a general of Alexander, Seleucus Nicator (image above)
 - 300BC is when they signed a treaty with the Maurya and gave them the south and east, namely Kabul and Kandahar
 - The Seleucids continued to rule Bactria and the west for a while longer
 
 ## Maurya Empire: 300 - 185BC
-![[Pasted image 20241009211044.png|200]] 
+![[MauryaEmpire.png|200]] 
 - an Indian Empire based out of Patna in the east of modern India
 - they brought Buddhism to Afghanistan under Asoka (image above), the third ruler and grandson of the founder of the Maurya
 - they only ever controlled areas around Kabul and Kandahar
@@ -54,13 +54,13 @@ tags:
 - Indo-Parthians were the last to control most of Afghanistan before the Kushans arrived
 
 ## Parthian Empire: 250BC - 220AD
-![[Pasted image 20241009211332.png|200]]
+![[ParthianEmpire.png|200]]
 - they were a central Asian Iranian group
 - they rivalled the Roman empire in power, and actually defeated them in Asia Minor
 - they reached the height of their power in 90BC under Mithridates II (image above)
 
 ## Kushan Empire: 30 - 375AD
-![[Pasted image 20241009212701.png|200]]
+![[KushanEmpire.png|200]]
 - they took most of Afghanistan from the Parthians around 60AD
 - the largest extent was under Kanishka the Great in ~130AD (image above)
 - Kanishka brought a revival of Buddhism to Afghanistan
