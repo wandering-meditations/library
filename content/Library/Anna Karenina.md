@@ -3,7 +3,6 @@ title: Anna Karenina
 author: Tolstoy
 tags:
   - fiction
-  - favourite
   - classic
 ---
 ![[AnnaKarenina.png|200]]

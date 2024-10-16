@@ -1,0 +1,345 @@
+---
+title: Historical Atlas of Eastern Europe
+author: Dennis Hupchick
+tags:
+  - history
+  - geography
+  - europe
+---
+![[HistoricalAtlasEasternEuro.png|200]]
+
+# Summary
+## Introductory Maps
+- **map 1: statistics (religion, population, ethnicities, etc.)**
+- **map 2: physical geography**
+	- eastern Europe can be broken down into 3 main areas
+		- The Polish Plain
+		- The Danubian Basin
+		- Balkan Peninsula
+	- overall mountainous, except the Polish plain
+- **map 3: demographic**
+	- can be broken down into 3 main ethnic groups
+		- east Slavs: Russians, Ukrainians, Belarusians
+		- west Slavs: Polish, Czech, Slovak
+		- south Slavs: Croats, Montenegrins, Macedonians, Serbs, Slovenes, and eventually Bulgarians
+			- Bulgarians are ethnically mixed, originally Turkic but 'Slavicized' overtime via inter-mixing
+	- eastern Europe also contains a considerable amount of Germans, Turks (mainly along the coast of the Black Sea), and 'indigenous people'
+	- indigenous people are: Greeks, Albanians (descendants of Illyrians), and Romanians (Latin speaking)
+- **map 4: cultural**
+	- can be broken down into 3 cultural 'fault' lines
+		- west European: Catholic/Protestant
+			- Poland, Czech Republic, Slovakia, Hungary
+		- east European: Orthodox
+			- Russia, Ukraine, Moldova, Romania, Bulgaria, Serbia
+		- Islamic
+			- very small, along the coast of the Black Sea down towards European Turkey, into Macedonia, Albania, and Bosnia
+
+## Part 1: Early Medieval Period (3rd - 13th Centuries)
+- **map 5: Roman Empire, late 3rd century**
+	- the emperor Diocletian divided the Roman Empire into 2 halves: West and East
+		- West: Britain, Gaul, Spain, western North Africa, Italia
+		- East: Balkans (Dacia, Macedonia, Thrace), Asia Minor and Pontus, the near east (Palestine, Levant), Egypt, eastern North Africa
+	- after Diocletian died, the two halves basically split and became their own distinct empires
+	- Constantine the First became emperor of the eastern half and became Christian. He actively worked on making Christianity the state religion and tying church and state together
+	- Constantine also made himself and future emperors the sole authority of the church, almost to a divine status
+- **map 6: Barbarian migrations, 4th-6th centuries**
+	- Germans began to spread into the Western and Eastern Roman Empires
+	- Romain emperors knew they couldn't defeat the Germans, so they tried to make them assimilate
+	- The Anglo-Saxons migrated to Britain and replaced the indigenous Celtic population
+	- The Franks migrated to France and mixed with the indigenous Celtic Gaul population
+	- Other barbarians include Vandals, Visgoths, and Ostrogoths
+- **map 7: East Roman Empire under Justinian the First, mid 6th century**
+	- Justinian had a mission: to unite the Roman Empire, which he did successfully.
+	- he was in constant war for 20 years with various barbarian tribes who rules western Roman Empire. He defeated them all by the end of the wars.
+	- after a few years of peace, a new barbarian tribe named the Lombards invaded and took over most of Italy
+- **map 8: Slavic and Turkic invasions, 6th-8th centuries** ^5780fc
+	- Turks like the Avars and Bulgars started to invade, along with Slavs like Slovaks, Czechs, Sorbs, etc
+	- Avars were eventually destroyed by Charlemagne in around 800AD
+	- Bulgars established a state supported by the Byzantine's. They allowed Slavs into leadership positions, which caused the Slavs to slowly overtime overtake the Bulgars. This led to Bulgar ethnic assimilation by the Slavic majority
+- **map 9: Eastern Europe, mid-9th century**
+	- this time can be characterized as dominance of other empires/kingdoms, i.e. not Byzantine (east Roman) or Kingdom of the Franks (Holy Roman Empire)
+	- these were 'Great Moravia' and Bulgaria
+	- Bulgaria was a Turkic state with heavy Slavic influence due to its population being majority Slavic
+	- Great Moravia was a Czech state with lots of other Slavic people like Sorbs and Slovaks
+	- Great Moravia was Catholic while Bulgaria was Orthodox
+	- one of the Bulgarian rulers saw that his kingdom being Orthodox could lead to them becoming fully subservient to the Byzantine empire, so he enlisted the help of a religious scholar (Cyril) to create a new alphabet (Cyrillic) which would be a Slavic alphabet, not Latin nor Greek
+	- This also led to the birth of the Bulgarian Orthodox Church
+- **map 10: The rise of Bulgaria, 8th-10th Centuries**
+	- Bulgaria rised rapidly and basically controlled the entire Balkan region. They were at constant war with Byzantine despite being under the Byzantine church and the patriarch of Constantinople
+	- After the death of Simeon the first (the last powerful ruler of Bulgaria) in 927, his empire quickly collapsed due to invasions from Russians and the Byzantines.
+	- By 1018, the former Bulgarian lands were fully under the control of Byzantium for the next 167 years
+- **map 11: Constantinople, 10th-12th centuries**
+	- not much here, just some history on Constantinople
+- **map 12: The Balkans, early 11th century**
+	- Bulgarian empire stayed around for a while, but just barely
+	- first, they were under constant threat from Kievan Russia, who eventually conquered most Bulgarian lands and assigned a puppet ruler to rule Bulgaria on Russians behalf
+	- this led the Byzantines to attack Bulgaria and Russia. They were successful and incorporated most eastern Bulgarian lands into the Byzantine empire
+	- then a new Bulgarian ruler emerged and took back the lands, and again the Byzantines defeated them but this time they took ALL of Bulgaria and incorporated it into the Byzantine Empire
+	- during this period, the Croats and Serb tribes established their own states
+	- The Croats were in constant conflict between Rome and Byzantium. The Croats received recognition from both sides on the religious side of things so their allegiances were unclear.
+- **map 13: The rise of Hungary, 10th to 13th centuries**
+	- The Hungarians, "Magyars", are a Turkic people speaking a Finno-Ugric language.
+	- They entered Eastern Europe in the late 9th Century. They came from the Steppes where the Pechenegs drove them out.
+	- The Magyars raided the other Europeans, and so the Europeans called the Magyars 'Hungarians' because the raiding resembled those of Atilla the Hun
+	- In the late 10th Century, their raids stopped after being defeated by the Holy Roman Empire, but rather than being wiped out they started their own state/nation and started converting to Catholicism. They became recognized as fellow Europeans, despite being Turkic (one of the few Turkics in Europe)
+	- by the 12th century, they started to lose their power due to state instability
+- **map 14: The Rise of Poland, late 10th to 13th centuries**
+	- The Poles already had an organized pagan state when the Germans discovered them in 963. They were led by a tribal chieftain named Miezko the first. The leader always had the title 'piast'
+	- Miezko realized that his people being pagan left them vulnerable towards a possible German conquest, so in order to gain protection and remain independent, they became Catholic, thus giving them Papal protection. This happened in 965
+	- After Piast Boleslaw the third Wrymouth passed away (1138), everything went to shit. Poland became destabilized due to succession issues between sons of the Piast.
+	- In the midst of all this internal struggle, the Mongols invaded twice (1241, 1259) and wreaked havoc. This led to the Germans and Teutonic Knights colonizing Poland to rebuilt and redevelop it
+- **map 15: Eastern Europe, mid-11th Century**
+	- this map lays a foundation of how Eastern Europe in general looked in 11th century. There were many states: Poland, Croatia, Hungary, Byzantine (which included their fellow Orthodox Serbia and Bulgaria)
+	- The Pechenegs also had control over a large land mass
+- **map 16: The Balkans, late 12th Century**
+	- in 1054 the Church officially split: Catholics and eastern Orthodox
+	- The Byzantine's went through a period of decline until Alexius Komnenos took power in 1081 and brought stability back, but the empire was still weak
+	- during this time of instability, Bulgaria rose up and revolted, and started their own state again in 1185
+	- Serbia (Orthodox) and Bosnia (Catholic) also had their own independent states now
+
+## Part 2: Late Medieval Period (13th - 15th Centuries)
+- **Map 17: The Latin Empire of Constantinople, 1214**
+	- in 1204 the Catholic Crusaders sacked Constantinople and gained control of it for the next 60 years
+	- the deposed Orthodox aristocrats established new states:
+	- empire of Nicea: in Asia Minor, in between Latin Constantinople and the Seljuks
+	- Epiros: along the Adriatic coast, modern day Albania and Greece
+	- The Bulgarian state gained a considerable amount of power in this area
+- **Map 18: The Rise of Serbia, 13th-14th Centuries**
+	- 1217 is when Serbia truly began to rise and grow
+	- At it's largest extent in about 1345, it included modern day Greece, Albania, Serbia, and parts of Bosnia and Bulgaria
+	- The largest growth and conquest was done by the ruler named Dusan. Once he died, Serbia fell into internal disarray and became ripe for Ottoman conquest. Dusan was considered the final Orthodox ruler capable of fighting off the Ottomans, so when he died it was a tragedy for Orthodox Balkan people
+- **Map 19: Eastern Europe, mid-13th Century**
+	- this map gives an overall picture of how the entirety of Eastern Europe was looking in the mid 13th century
+	- in 1261 the Latin empire of Constantinople came to an end when the empire of Nicea swiftly took over. The Nicaeans controlled a large chunk of the Balkans at this point, mainly modern day Balkan Turkey and Greece
+	- The Mongol Golden Horde enters the picture. They control huge chunks of Hungary and Bulgaria
+	- Serbia was weak due to internal disarray
+	- Poland was going through internal disarray and 2 major invasions by Mongols
+	- The Teutonic Knights entered Poland to deal with the Prussian Pagans, but ended up staying and established their own state in North Poland
+- **Map 20: Eastern Europe, mid-14th Century**
+	- Kingdom of Bohemia (the Czechs) rose up and became powerful. The king of Bohemia, Charles the first of Luxemburg even became Holy Roman Emperor and moved the capital to Prague
+	- The Teutonic knights expanded and took the entire Baltic coastline, making Poland land-locked
+	- Germans became settling in Poland and turned entire towns German-speaking
+	- The Pagan state of Lithuania rose up and became a threat to everyone
+	- The French-Sicilian house of Anjou took control of the Hungarian throne, specifically Charles I Robert, and brought in Western European social and governmental changes
+	- Charles son Louis of Anjou (Louis the Great) became king of Poland
+	- Louis exerted  influence to Moldavia, Wallachia, and Bosnia
+	- Serbia reached it's greatest extent during this time (1355) but quickly declined after that
+	- Bulgaria was reduced to simply being a satellite state of Serbia
+	- Byzantium was basically non-existent
+	- Ottoman Turks started to make their name known in the area
+- **Map 21: Prague, mid 14-15th Centuries**
+	- at the time of the death of King-Emperor Charles I Lexemburg (1378) Prague was the third largest city in Europe, after Constantinople and Rome
+	- Prague lost its position as capital of the Holy Roman Empire with the rise of the Hussite movement, a Czech proto-Protestant movement founded by Jan Hus
+		- https://en.wikipedia.org/wiki/Hussites
+- **Map 22: The Rise of the Ottoman Empire, 13th - 15th Centuries**
+	- this map shows the expansions of the Ottomans into the Balkan territories
+- **Map 23: The Expansion of Poland, 14th-15th Centuries**
+	- Louis of Anjou's daughter succeeded him on the Polish throne. She married Wladislaw Jagiello, prince of Lithuania. 
+	- Jagiello converted to Catholicism and assumed the Polish throne, thus uniting Poland and Lithuania (1386)
+	- The descendants of Jagiello took power in other kingdoms like Bohemia and Hungary. They rivalled the power of the Austrian Hapsburgs who ruled large parts of Central-Eastern Europe
+	- Poland and Lithuania officially united in 1565 (map 26)
+	- The "Jagiellonian system" reached its height of power in 1500
+## Part 3: Early Modern Period (16th - 18th Centuries)
+- **Map 24: Apex of the Ottomans in Europe, mid 16th century**
+	- The apex of Ottoman presence in Europe was under Sulayman I the Magnificent (1520 - 1566)
+	- Ottomans controlled Romania, Albania, Greece, Hungary, Moldavia, Serbia, Bosnia, and large parts of Croatia
+	- Under his son, Selim II the Sot (1566 - 1574), the decline began
+- **Map 25: Istanbul, 16th - 17th centuries**
+	- each religious group had their own legal system and leaders: Orthodox, Jews, and Armenian Christians
+	- The Greek orthodox church had even more control over Ottoman Balkan orthodox lands than they did during the time of the Byzantine empire!
+- **Map 26: Apex and Decline of Poland, 16th - 17th centuries**
+	- in 1565 when the treaty of union was signed for the union of Poland-Lithuania, Poland came out as the stronger partner so they took most control
+	- the noble class were always very strong in Poland which made the real rulers weak, which caused Poland to historically have a very unstable kingdom
+		- as an example, the kings were elected by the nobility, which was something that didn't happen anywhere else in Poland (monarchies are typically hereditary)
+	- Poland had many wars with Russia. At the height, they took many parts of Russia including Moscow, but it didn't last long.
+	- Eventually, Russia and Poland came to a truce and split Ukraine amongst themselves
+- **Map 27: The Rise of the Habsburgs, 16th - 17th centuries**
+	- This family was an obscure German aristocratic family who rose to fame in 1273 when the Count was appointed Holy Roman Emperor. They chose him because of his obscurity and his apparent weakness
+	- Very quickly this family became the most powerful family in Europe through good decisions and policies involving marriage alliances
+	- They had ties to both the French and Spanish kingdoms which brought them insane amounts of wealth
+	- Their control over Europe was so vast that Emperor Charles decided it should be split amongst his brother and son
+	- Eventually, they even gained control of Bohemia and Hungary!
+		- They defeated the Ottomans for control over most of Hungary. At this point though, the 17th century, the Ottomans influence and power in Europe was declining
+- **Map 28: Ottoman Decline, 17th - 18th centuries**
+	- decline started with Selim II the Sot, son of Suleyman the Magnificent
+	- what contributed to the Ottomans great successes was the fact that the military offices were staffed by the household slaves of the Sultan. This is what made the Ottomans the most centralized and efficient government in Europe from the 14th - 16th centuries
+		- important to note slavery was not like that of USA. Slaves possessed and controlled immense power, wealth, social position, and public honor
+	- the decline was largely caused by jealous Muslim-born subjects forcing or bribing their way into government/military offices which reduced the Sultan's authority over his own government which destabilized the entire system
+	- another factor of decline was slow adoption of new technologies and trends
+		- gunpowder was adopted much later compared to the rest of Europe
+		- naval travelling was behind - the rest of Europe could sail to far east Asia to trade themselves rather than use Ottomans as a middle man
+- **Map 29: The Partitions of Poland, 1772 - 1795**
+	- the reason for Poland's collapse was the lack of a viable, unifying sociopolitical system to hold the country together. It collapsed from within. The nobility class became so powerful that no real unity of purpose existed among them to defend the interests of the state as a whole.
+	- starting in the 18th century, Poland became a playground for the other Euro powers, namely France, Habsburgs, Russia, and Prussia
+	- These powers installed puppet rulers to keep the nobility divided and weak
+	- One aristocrat, Stanislaw Poniatowski (the former lover of Catherine the Great) became king with support from Russia and Prussia, but after taking control he started going his own direction. Russia wanted to invade but Prussia said let's just take chunks of Poland for ourselves
+	- Russia took most eastern parts of Poland like Belorussia and Ukraine and Lithuania
+	- Prussia took West Prussia (Danzig) and Great Poland (Poznan and Warsaw)
+	- Habsburgs took Galacia (Crawcow and L'viv) and the rest of Austria
+	- Poland ceased to exist as a state
+## Part 4: Period of Nationalism (19th Century - 1918)
+- **Map 30: Eastern Europe, 1812**
+	- this was the rise of Napoleon
+	- Napoleon's message gave hope to the defeated Polish nobility who at this time had no country anymore
+	- The Poles helped Napoleon on his campaigns against Prussia and Russia
+	- Napoleon forced the Prussians and Russians to accept a new Polish state, called the Duchy of Warsaw
+	- Napoleon defeated and caused the Holy Roman Empire to cease to exist. It was replaced by the pro-French Confederation of the Rhine
+	- Former Venetian lands controlled by the Habsburgs (Austrians) were given to the pro-French Kingdom of Italy
+	- Napoleon also gained direct control over large areas of lands of the Croats and Slovenes
+	- Napoleon's ideas and message of nationalism inspired Slavic and Balkan people everywhere. This is what eventually led to uprisings in Ottoman Balkan by Serbs 
+- **Map 31: Eastern Europe, 1815**
+	- Napoleon was defeated in 1812 by Russia and shortly after collapsed entirely
+	- The European powers, in 1815, met up in Vienna (Congress of Vienna) to decide how the post Napoleon Europe will look like
+	- The major powers, Russia, Prussia, and Austrians (Habsburgs) split up the land formerly held by Napoleon for themselves (for the most part, it was land that they originally held pre-Napoleon)
+		- Russia took most of Poland
+		- Austria took Bohemia and Venetia, retained Hungary
+		- Prussia took Danzig and some part of Poland
+	- Tsar Alexander of Russia formed an independent 'Kingdom of Poland' AKA 'Congress Poland' with himself as hereditary ruler
+	- The Polish aristocrats thought the Tsar would give them some of Ukraine, but he didn't which led to Poles rising up in the failed rebellion of 1830
+	- The monarchies of the great European powers tried to repress the ideas of nationalism via military repression and censorship, but it was not sustainable. Nationalism was growing rapidly
+- **Map 32: The Balkans after the Serb and Greek Revolutions, 1830**
+	- Serbia rose up, but became an independent state officially part of Ottoman Empire
+	- Greece rose up, and with the help of Western Europe became officially independent. It was ruled by King Otto the first from Bavaria (Germany)
+	- Wallachia and Moldavia were occupied by Russia so the Ottomans lost control of those areas
+		- Russia and Ottomans waged a series of wars throughout the early 1800s
+- **Map 33: Revolutions in the Austrian Empire, 1848 - 1849**
+	- ideas of revolutions started around 1791. The Austrian Emperor Joseph II wanted to 'Germanize' the entirety of the empire, which included Bohemia (Czech), Hungary (Magyar), Croatia, etc
+	- this did NOT go well with the non-Germans. To counter-act this, Joseph II decided to establish a Slavic languages chair at the University of Vienna. It didn't work in the long run
+	- by the 1840s, the Hungarians started their run for independence. Some wanted an independent kingdom that was for Magyars only, others wanted a multi-cultural Magyar state within a reformed Habsburg Empire
+	- The Czech also rose up and appealed to Panslavism. 
+	- Croats followed suite
+	- The Hungarians declared independence and fought the Habsburgs. Eventually, with Russian help, Hungary was back into Habsburgs hands
+- **Map 34: The Austro-Hungarian Ausgleich, 1867** ^afb9f9
+	- A new state 'Germany' was officially established after a war between Austria and Prussia. Prussia won and forced Austria to accept a German state. 1866
+	- The Austrians were very weak, and in order to survive had to make their largest nationalist group, the Hungarians, an equal governing partner: Austria-Hungary
+		- The Austrians directly rules Bohemia and Slovenia
+		- The Hungarians directly rules Hungary proper, Slovakia, Transylvania, Croatia, and Banat
+		- both sides were under direct rule of the Habsburgs/Austrians
+		- the ethnic minorities, like the Czech were NOT happy and thought they deserved their own state too
+	- Austria-Hungary was a recipe for disaster. You simply cannot rule a multi-national and multi-ethnic state this way.
+- **Map 35: The Balkans, 1878 - 1885**
+	- everyone decides to rebel: Bosnia, Serbia, and Bulgaria
+	- Russia was heavily involved because they wanted power in the Balkans
+	- Habsburgs took Bosnia while the Serbs and Bulgaria were defeated by Ottomans
+	- Russia declared war against Ottomans for their brutality against Bulgaria and Russia won, forcing Ottomans to give up Serbia, Montenegro, and Romania (Wallachia and Moldova) to become independent states, and created a puppet state of Bulgaria
+	- Another treaty was signed that gave the Habsburgs full control over Bosnia and some parts of Bulgaria were given back to the Ottomans
+	- Bulgaria was eventually reunified in 1885
+	- Macedonia was the area where all Balkan states collided and fought over where their borders should be
+- **Map 36: The Macedonian Question**
+	- The former Ottoman province of Macedonia was claimed by Bulgaria, Serbia, and Greece
+	- The Bulgarian claim was a historical one. Since their inception in 681, the lands of Macedonia were integral to the Bulgarian kingdom. The capital, Ohrid, is right in the heart of Macedonia. During the Ottomans time, the Macedonians even voted to become part of the Bulgarian Orthodox diocese, not the Greek
+	- Greek claim was also historical. Philip the Second (359 BC) and Alexander the Great (336BC) were both from Macedonia, both were Greek / Hellenized rulers. After 1767, Macedonia was under Greek Orthodox control
+	- The Serbians claim was that during the reign of Tsar Dusan, the Serb capital was the Macedonian city of Skopje. 
+	- The fighting between these 3 entities inside Macedonia led to a nationalist movement rising up: IMRO - Internal Macedonian Revolutionary Organization
+	- The Ottomans were still an obstable in the way of an independent Macedonia. So much so that Serbs, Bulgarians,  and Greeks decided to put their differences aside to help Macedonians fight off the Turks, which resulted in the Balkan Wars (map 39)
+- **Map 37: The Balkans, 1908**
+	- in 1902 the Young Turks became to form as a nationalistic and westernized movement
+		- A contingent of Young Turks part of the Ottoman military, including Mustafa Kemal, had the upper hand against the Sultan and took de-facto power
+		- They initiated a policy of Turkish centralization, which made the ethnic minorities upset
+		- This led to nationalistic movement everywhere like Albania, Arabia, and Armenia
+		- This also led to mass-murders like genocide in Armenia
+		- Eventually, this led to the collapse of the Ottoman empire after WW1 (map 41 and 42)
+	- This was the year Austria-Hungary annexed Bosnia-Hercegovina. Many euro powers protested against this but didn't want to start a war. The crisis ended by Austria paying the Turks some money in exchange for Bosnia
+	- Around this time Bulgarian prince Ferdinand the first declared Bulgaria to be completely independent of Ottoman suzerainty
+- **Map 38: Bosnia-Hercegovina, 1908 - 1914**
+	- Bosnia was made up of 3 factions/identities:
+		- 43% east euro Orthodox that had a Serb identity
+		- 39% Muslim who had their own identity
+		- 18% west euro Catholic that had a Croat identity
+	- a nationalistic movement in Bosnia, the Young Bosnians, started to grow. They were aligned with Serbia (they were Orthodox). 
+		- Austria-Hungary was aligned with the Catholic Bosnians, the Croats-Bosnians
+	- The Habsburgs were harsh on the Young Bosnians. Eventually when it was announced the heir to the Austrian throne, Francis Ferdinand, would tour Bosnia, the Young Bosnians took that as a chance to assassinate him, which they did. This started WW1 (map 41)
+- **Map 39: The Balkan Wars, 1912-1913**
+	- The nationalist policies of the Young Turks is what led to Balkan people to rise up and eventually start the Balkan wars
+	- All the various Balkan powers signed treaties behind the Ottoman's back: Serbian, Bulgaria, Greece, and Macedonia, all with the backing of Russia
+		- Ottomans were busy fighting the Italians in the war in Tripoli
+	- The all declared war against the Ottomans around the same time and won for the most part. Only Istanbul and Shkoder (Albania) remained of the Turks in Europe. Bulgaria took Edirne and the surroundings from Turks
+	- eventually the Treaty of London was signed that ended the war
+	- the Balkan alliance did not last last cause they all turned on each other. Eventually a second war, 1913, started. This was started by Bulgaria and so everyone declared war against them
+	- Bulgaria lost a lot of land: Turks took back Edirne, Greeks took Thessaloniki, Albania became independent, Romania took Dobrudzha, Serbia took most of Macedonia
+		- The borders established for Bulgaria and Greece in 1913 remain to this day
+- **Map 40: Eastern Europe, 1914**
+	- the late 1800s finalized the alliances in Europe
+		- the Entente: France, Russia, England, Serbia
+		- Central Powers: Germany, Austrian, Italy
+	- meanwhile Austria-Hungary was having internal problems
+		- The Austrian side was dealing with their Czech population wanting independence
+		- The Hungarian side was dealing with the Romanian (Transylvania), Slovakian, and Croatian populations wanting independence
+- **Map 41: Eastern Europe during WW1, 1914 - 1918**
+	- Young Bosnians supported by Serbs assassinated the Habsburg heir. Austria-Hungary wanted to go to war with Serbia because of that. WW1 starts once Austrian troops invade Serbia in 1914
+	- because of the military alliances (Entente and Central Powers) everyone else was forced into the war
+	- major events:
+		- Austria and Bulgaria easily defeated Serbian and occupied Serbia and Macedonia
+			- Bulgaria was bribed into the war because Austrians promised them Macedonia
+		- England evacuated the remaining Serbians
+		- Indecisive battles happened between Russia and Germany around Poland
+		- Ottomans join the Central Powers (Germany Austria Italy) and attack Russia in the Caucasus and England in the middle east
+		- England tried to siege Istanbul but failed
+		- Italy defects and joins the Entente in 1915
+		- the Entente open up a new front in Greek Macedonia
+		- Romania takes this chance to declare war against Austria-Hungary to take Transylvania but fail and are occupied in early 1917
+		- in 1917 USA enters the war on the Entente's side and president Woodrow Wilson issues a 14 point declaration stating that the ethnic minorities of Austria-Hungary must have independence
+		- Russia was in bad shape and it led to a revolution that brought Lenin and Bolsheviks into power
+		- Lenin didn't want war so he signed a peace agreement with Germany
+		- in the Balkans, the Entente pushed forward which led to a collapse of German and Bulgarian forces in 1918. Bulgaria had to sign a peace treaty due to their defeat.
+		- In late 1918, Austria-Hungary collapses as all the ethnic monitories in their kingdom declare independence (Czechs, Slovaks, Croats, Slovenes, and Romanians)
+## Part 5: Modern and Contemporary Periods (1918 - 1991)
+- **Map 42: Eastern Europe, 1923**
+	- following the fall of Austria-Hungary, many new nations popped up
+		- Austria
+		- Hungary
+		- Kingdom of the Serbs Croats and Slovenes (Yugoslavia)
+		- Czechoslovakia
+		- Poland
+- **Map 43: Independent Poland 1920-1922**
+	- Poland finally became independent once again
+	- they went to war with the Soviets over more land and ultimately lost
+- **Map 44: Hungary after Trianon, 1920-1939**
+	- Hungary lost a lot of land after the Treat of Trianon signed in 1920
+	- Romania, Yugoslavia, and Czechoslovakia signed a military alliance to protect themselves against Hungary
+	- this led to a far right movement growing within Hungary that ultimately allied itself with Nazi Germany
+- **Map 45: Romania after Trianon, 1920-1938**
+	- Romania took control of Transylvania when Austria-Hungary collapsed, and then took Bessarabia while Russia was busy during the Soviet revolution
+	- At this point, Romania had a considerable amount of minorities who they repressed and systematically discriminated
+- **Map 46: The Transylvanian Question**
+	- This was the argument between Hungary and Romania over the lands of Transylvania
+	- This land has been under Hungarian control since the 11th century, so although it was primarily ethnic Romanians, they couldn't imagine letting go of this land
+	- The Romanian claim was that 55% of the land is inhabited by ethnic Romanians, and the ancient people of that land, the Daks, are the ancestors of the Romanians
+	- Romania and Hungary both sided with Hitler. Hitler tried to settle the dispute by giving 40% to Hungary and the rest to Romania.
+	- Eventually near the end of WW2, Romania defected and was given all of Transylvania as a reward
+- **Map 47: Versailles-Created Yugoslavia, 1921-1941**
+	- a Croat leader and a Serb leader had the idea of joining to make a new state: Kingdom of Serbs, Croats and Slovenes
+	- they officially declared their independence in 1918 after WW1 basically ended
+	- the US and her allies were supporters of this new state
+	- in 1929, after many years of Croatian and Serbian infighting, the Serbian side declared a dictatorship and Yugoslavia was born
+	- This led to a Croat terrorist group rising up, the Ustase
+	- eventually, the Croats were given their rights back and political positions, but this came to end when Hitler invaded Yugoslavia and defeated them within 10 days. He installed the radical Ustase government to hold down the country while he invaded Soviet Union
+- **Map 48: Czechoslovakia and Munich, 1920-1939**
+	- Czechoslovakia was flawed from the start: the idea of 2 very different ethno-states joining together made no sense
+	- *Czechs* were nominally catholic, secular, socialist, held positions of power in the Habsburgs, Prague was a European powerhouse, etc, while the *Slovaks* were the complete opposite, devout Catholics, peasants under the Hungarians most of their history, conservative
+		- this led to a power imbalance between the two 'partners'
+	- Hitler destroyed Czechoslovakia. Some lands went to his allies like the Hungarians
+		- Slovakia, allied with Hitler, kept their land
+	- Hitler gave some part of Czechoslovakia to the Poles
+	- this all happened around 1938
+- **Map 49: Eastern Europe during WW2, 1938 - 1944**
+	- WW2 started with Hitler invaded Poland
+	- Poland quickly collapsed. Hitler attacking on their West, and Soviet to their East
+	- Hitler's plan was to gain influence across the Balkans
+		- He invaded Yugoslavia and Greece at the same time and occupied both
+		- These lands went to his allies, like Montenegro was given to Italy, Macedonia to Bulgaria, etc
+		- Romania, Bulgaria, and Hungary were all his allies
+	- Once Hitler's Balkan shenanigans were over, he invaded Russia
+- **Map 50: Eastern Europe, 1948 - 1991**
+	- after Hitler was defeated in 1944, the post-war Eastern European landscape was shaped by the British, Soviets, and the US
+	- The Soviet Union via Communism managed to take power in EVERY single eastern European country with the exception of Greece which stayed tightly wrapped under British control
+	- Soviets came up with COMECON that unified all communist states together. It was a mutual aid alliance, similar to NATO
+		- The US responded with establishing NATO
+	- Anytime an eastern Euro country dared to go against the Soviets, they faced military intervention. But some did like Albania
+	- Yugoslavia eventually collapsed in 1991
+	- Eventually communism was losing power during the cold war and eastern Europe rejected communism
+
+
+# Main Idea of the Book
+This book aims to present a general overview of Eastern European history in the form of presenting maps. The maps provide a great visual aid. The description provided is quite comprehensive, but not too detailed.
+
