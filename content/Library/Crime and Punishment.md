@@ -3,7 +3,7 @@ title: Crime and Punishment
 author: Dostoevsky
 tags:
   - fiction
-  - favourite
+  - classic
 ---
 ![[CrimeAndPunishment.png|200]]
 
