@@ -1,9 +1,9 @@
 ---
 title: Mujahideen Factions
-tags:
-  - afghanistan 
 ---
+**Topic**: [[afghanistan]]
 
+---
 
 There were 7 recognized and prominent Mujahideen factions during the Soviet-Afghan war (1979-1989).
 

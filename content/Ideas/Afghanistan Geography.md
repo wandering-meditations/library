@@ -1,12 +1,13 @@
 ---
 title: Afghanistan Geography
-tags:
-  - afghanistan 
+---
+**Topic**: [[afghanistan]]
+
 ---
 
 ![[WakhanCorridor.png|500]]
 > ^ Landscape of the Wakhan Corridor in Badakhshan.
-> 
+>
 > The Wakhan Corridor in the province of Badakhshan connects Afghanistan to China. Looking at a map, one may think why this piece of land even belongs to Afghanistan as it looks out of place (it looks like a long skinny hook coming out of the north-east border). Long story short, The British Empire gave this land to Afghanistan in the 1890s as part of the Durand Line Agreement. The reason was so there could be a buffer zone between themselves (British India) and Russian Turkestan (modern Tajikistan) as the Russian Empire was their greatest enemy at the time.
 
 <br>

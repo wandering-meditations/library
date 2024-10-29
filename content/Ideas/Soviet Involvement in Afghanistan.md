@@ -1,8 +1,10 @@
 ---
 title: Soviet Involvement in Afghanistan
-tags:
-  - afghanistan 
 ---
+**Topic**: [[afghanistan]]
+
+---
+
 # Reasons for the Soviets Entering Afghanistan Militarily (1979)
 - deterioration of communist power
 	- the leaders of the Afghan communist party were implemented strict social changes too quickly which led them to gain LOTS of enemies. This led to various tribes rising up and taking control over their own provinces
