@@ -1,3 +1,6 @@
+---
+title: README
+---
 # A History of My Library
 
 Like many of you (probably), I enjoy reading and have been reading for several years. I used to write down notes by hand, usually in the form of a sticky note within the book. Then, everything changed when the fire nation attacked... sorry, I had to throw in an ATLA reference :) ... everything changed when I discovered Obsidian.
@@ -39,12 +42,14 @@ March 2024 is when I really started to get serious about standardizing my notes,
 - note structure (templates)
 - use of links and differentiating between *outgoing* and *backlinks*
 - rating books
+
 I began by creating several templates:
 - non-fiction
 - fiction
 - video / lecture
 - idea
 - essay
+
 Anytime I would create a new note, I'd import the appropriate template and use that as a starting point. That said, sometimes it makes sense to deviate from a template or make modifications to it, it just all depends on the specific note.
 I then developed a detailed note-taking system that would inform me on the rules of linking and writing ideas. This is absolutely paramount as the entire Obsidian/Zettelkasten system relies on linking and ideas. I have a detailed explanation of this below.
 Finally, I developed a (somewhat) objective rating system, that way I can rate each book in an objective manner so there's at least some consistency between ratings. If you're curious to see how I've rated a book, please visit my [StoryGraph](https://app.thestorygraph.com/profile/wandering_meditations) profile.
@@ -54,17 +59,19 @@ That wraps up a timeline of my history with Obsidian. I'm fairly happy with how 
 Now, flash forward to early October 2024. A friend told me about a project called Quartz where people can easily turn their markdown content into fully functional websites. He told me this in passing and I quickly looked it up to see what it was all about. I spent the next few hours reading through the documentation and came to the conclusion that this is exactly what I needed to take my Obsidian Vault and my library to the next level. It all relies on a concept known as a "digital garden", a concept I have heard about in the past when watching Obsidian-related content on YouTube, but I never really put much thought into it. 
 - the creator of Quartz has a great write-up on this topic: https://jzhao.xyz/posts/networked-thought
 
-I had one main reason for wanting to start a digital garden: I love to share. I already publish some of my writings on [Medium](https://medium.com/@wanderingmeditations) and post on [X/Twitter](https://x.com/ruminationofman), so why not share my raw notes as well? I've got so many notes and ideas that it almost feels wrong to keep it all to myself.
+I started this website so I could have a centralized place where I store all my publicly-facing content, such as my [Medium](https://medium.com/@wanderingmeditations) articles and Tweets on [X/Twitter](https://x.com/ruminationofman). It also acts as a 'digital garden', as mentioned above, so you can see my raw notes for some of the texts I've read. Eventually, I do expect the scope of this website to expand.
+
 
 # Structure of the Site
 
 The site has three primary folders where notes are stored:
 - **Library**: notes taken **from** books and other content like online videos or lectures
-- **Ideas**: notes written **about** books, or rather, notes written about the ideas, themes, and messages within 'Library' notes.
-- **Essays**: long-form writings based on ideas or books from my library. I intend on publishing these on [Medium](https://medium.com/@wanderingmeditations)
+- ~~**Ideas**: notes written **about** books, or rather, notes written about the ideas, themes, and messages within 'Library' notes.~~
+	- Currently I have no plans on adding any of my idea notes to this website. 
+- **Essays**: long-form writings based on ideas or books from my library. These are published on [Medium](https://medium.com/@wanderingmeditations)
 There are two other folders as well:
-- **Topics**: contains a list of my topic notes. A topic note is a note that contains all the books and ideas that relate to that topic. This is a good starting point for those who are new to my library.
-- **Wanderings**: a folder where I can put random notes (like this current note, README)
+- **Topics**: contains a list of my topic notes. A topic note is a note that contains all the books that relate to that topic. This is a good starting point for those who are new to my library.
+- **Wanderings**: a folder where I can put random notes (like this current README note)
 
 ### Library Notes
 Most of my book notes are structured as follows (not all notes will have all sections):
@@ -80,25 +87,6 @@ My summary section may also contain sub-headings within chapters that are not fr
 
 For many of my book notes, especially non-fiction, the analysis section is either non-existent or very minimal. That's because I save most of my analysis and "idea-extraction" for an idea note.
 
-### Idea Notes
-An idea note is simply a note on a very specific topic taken from one or more book notes. A good book will often end up generating or contributing to several idea notes.
-
-In other words, an idea note can contain quotes, ideas, and analyses from one or more book notes, and a book note can contribute to zero or more idea notes (yes, some books may not contribute to even a single idea note).
-
-The rules that I've implemented for my idea notes are as follows:
-1. they should be fairly small in length, ideally less than 500 words
-	- I do have some notes that are much longer, some of which are purposeful while others I do intend on breaking up into smaller notes in the future
-2. they should be readable on their own, meaning understanding or knowing about the source or reference (the book) should not be a pre-requisite to understanding the idea note.
-	- some of my idea notes don't follow this rule and that is purely due to my own laziness and something I intend to fix eventually
-3. they must belong to one or more topics
-4. they are will fit into one of four stages
-	- **seedling**: an idea with little to no commentary
-	- **flowering**: an idea that has some commentary, mainly rough notes
-	- **ripening**: an idea that has lots of commentary and information with good clean fleshed out thoughts
-		- NOTE: some *ideas* will forever stay 'ripe' because an essay is either not possible or not intended, example: most of my notes about ancient civilizations will stay ripe forever as they are "informational" type of notes
-		- needs to have minimum 300 words (exceptions may exist)
-	- **harvest**: an *idea* that is fully fleshed out with good and clean commentary/writing + it is essay worthy content
-		- ready to turn into an essay. Eventually a note will be created in the *Essays* folder if not already created
 
 # Methodology for Linking 
 Obsidian provides two types of links: outgoing links and backlinks.
