@@ -2,26 +2,18 @@
 title: Topics
 ---
 
-##### Complete
-[[Afghanistan]]
+[[afghanistan]]
 
-##### Not yet complete
-I have not added any notes for the below topics yet
+[[fiction]]
 
-[[Linguistics]]
+[[history]]
 
-[[Genetics]]
+[[other]]
 
-[[Ancient Civilizations]]
+[[philosophy]]
 
-[[Theology, Myth, and Religion]]
+[[psychology & selfhelp]]
 
-[[Christianity]]
+[[religion]]
 
-[[Psychology]]
 
-[[Philosophy]]
-
-[[Sociology]]
-
-[[Self-Improvement]]
