@@ -34,6 +34,9 @@ tags:
 [[Ancestral Journeys]]
 - history of the peopling of Europe. Heavy on genetic studies.
 
+[[Armageddon Averted]]
+- history of the collapse of the USSR and post-Soviet Russia up to 2008
+
 [[Historical Atlas of Eastern Europe]]
 - a series of 50 maps that show the history of Eastern Europe
 
