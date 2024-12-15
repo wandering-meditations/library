@@ -57,6 +57,8 @@ These can be read at any time and any place.
 
 [[The Assassins Song]]
 
+[[The Blood Dimmed Tide]]
+
 [[The Cossacks]]
 
 [[The Gambler]]
