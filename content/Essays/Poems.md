@@ -344,3 +344,28 @@ It hurts so much, it cuts like a knife
 Oh God, I can no longer bear it
 
 So I pass them on to You, to You I share it
+
+---
+### Dwell on the Past
+Don't dwell on the past,
+
+It'll eat you up fast.
+
+Don't think on regrets,
+
+Try your best to forget.
+
+
+Our souls can only bear so much,
+
+Let it go, otherwise it'll be a crutch.
+
+Our minds can only carry a light load,
+
+So don't bring too much on the road.
+
+
+Don't despair, God's dear child,
+We are of heaven, but for now exiled.
+One day we'll rejoice in God's light,
+But while we live, we must stand and fight.
