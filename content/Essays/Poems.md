@@ -5,7 +5,11 @@ I pray by lying beneath the night sky, counting the stars for many hours.
 I pray by contemplating the mysteries of the divine, letting my soul feel its powers.
 I pray by marveling at God's creation, from mountaintops to gentle showers.
 
-I pray by admiring Gods greatest creation, her mind thirsting for knowledge, her heart yearning for love, her senses, every one of them, alive, awakened, and gratified by the beauty around her.
+I pray by admiring Gods greatest creation,
+her mind thirsting for knowledge, 
+her heart yearning for love, 
+her senses, every one of them, 
+alive, awakened, and gratified by the beauty around her.
 
 In silence, I pray. In wonder, I pray. In awe, I pray.
 That is how I pray.
@@ -100,7 +104,6 @@ Live, live, and live some more.
 As you do not know when you'll enter God's door.
 
 *inspiration [[The Courage to be Disliked]]*
-- "If you are not living your life for yourself, then who is going to live it for you?"
 
 ---
 ### Two Souls
@@ -112,7 +115,6 @@ Like souls entwined beyond all time,
 Let's raise our cups and taste the wine.
 
 *inspiration [[The Courage to be Disliked]]*
-- "The world you see is different from the one I see, and it's impossible to share your world with anyone else."
 
 ---
 ### Trinity
@@ -126,12 +128,7 @@ Guiding our hearts with utmost conviction.
 *inspiration [[Alamut]]*
 
 ---
-### Unknown Love
-Oh how I long for you, yet you do not know.
-Oh how my heart yearns for you, yet you do not know.
-Oh how my eyes fall for you, yet you do not know.
-Oh lord, make me forget so her I can no longer know.
-+++
+### To Love, Unseen
 Oh how I long for her, yet she does not know.
 Oh how my heart yearns for her, yet she does not know.
 Oh how my eyes fall for her, yet she does not know.
@@ -154,17 +151,15 @@ For God cannot be by us possessed,
 But in God's heart we simply rest.
 
 *inspiration [[The Prophet]]*
-- "When you love you should not say, 'God is in my heart,' but rather, 'I am in the heart of God.' "
 
 ---
-### With You
+### A Love Worth Suffering
 To love you is my heart's desire,
 To suffer with you, I'd walk through fire.
 Without you, life holds nothing true,
 Love me, suffer with me, until death takes its due.
 
 *inspiration [[War and Peace]]*
-- 'You know that for me there is nothing in life but you, and to suffer with you is the greatest happiness for me.'
 
 ---
 ### The Greatest Emotion
@@ -186,7 +181,6 @@ What worth have sunrises to one who cannot love?
 To be without it is like losing the embrace of a divine dove. 
 
 *inspiration [[Samarkand]]*
-- "If you cannot love, what use is the rising and the setting of the sun?"
 
 ---
 ### Sorrow and Joy
@@ -196,20 +190,15 @@ The deeper our sorrow, the greater our weakness.
 The higher our joy, the stronger our greatness.
 
 *inspiration [[The Prophet]] and Dostoevsky*
-"the deeper that sorrow carves into your being, the more joy you can contain."
-
-The darker the night, the brighter the stars.
-The deeper the grief, the closer is god!
 
 ---
-### TBD
+### IDK
 Arise, we have eternity for sleeping.
 Surprise, the dead man is creeping.
 Agonize, the sick child is weeping.
 Theorize, the knowledge is sweeping.
 
 *inspiration [[Samarkand]]*
-- "Arise, we have eternity for sleeping!"
 
 ---
 ### Speak Freely
@@ -224,14 +213,12 @@ I've only sought to perceive *You* as much as I could.
 And I only ask that *You* guide me, if you would.
 
 *inspiration [[Samarkand]]*
-- "It is to sultans and qadis that one must speak with circumlocution, not to the Creator. God is great, he has nothing to do with out airs and graces. He made me a thinker and so I think, and I have over to Him the undiluted fruits of my thought"
-- "My God, You know that I have sought to perceive You as much as I could. Forgive me if my knowledge of You has been my only path towards You!"
 
 ---
-### Her
-In my mind you dwell constantly.
-In my heart I hurt continuously.
-I wish I had never known you,
+### Trapped in Remembrance
+In my mind you dwell constantly
+In my heart I hurt continuously
+I wish I had never known you
 But who would I be without you?
 
 ---
@@ -240,7 +227,6 @@ You consume my soul
 You seize control
 You possess my being 
 Yet I crave this feeling
-
 You distract my mind
 Leave reason behind
 You destroy me, shatter me
@@ -252,13 +238,3 @@ So many regrets yet so little life.
 It hurts so much, it cuts like a knife.
 Oh God, I can no longer bear it.
 So I pass them on to You, to You I share it.
-
----
-## Other ideas
-While there is life there is happiness. - [[War and Peace]]
-
- The whole of eternity in the company of sententious ulama? No, thank you. God promised us something else. [[Samarkand]]
-
-"Both paradise and hell are in you" [[Samarkand]]
-
- "Suffering and pain are always obligatory for people of broad intellect and a deep heart. Truly great people, I think, must feel great sadness for the world." p.234 [[Crime & Punishment]]
