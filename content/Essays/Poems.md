@@ -1,17 +1,28 @@
 ### I Pray
 How do I pray? 
+
 I pray by wandering through a garden, smelling the blooming flowers.
+
 I pray by lying beneath the night sky, counting the stars for many hours.
+
 I pray by contemplating the mysteries of the divine, letting my soul feel its powers.
+
 I pray by marveling at God's creation, from mountaintops to gentle showers.
 
+
 I pray by admiring Gods greatest creation,
+
 her mind thirsting for knowledge, 
+
 her heart yearning for love, 
+
 her senses, every one of them, 
+
 alive, awakened, and gratified by the beauty around her.
 
+
 In silence, I pray. In wonder, I pray. In awe, I pray.
+
 That is how I pray.
 
 *inspiration [[Samarkand]]*
