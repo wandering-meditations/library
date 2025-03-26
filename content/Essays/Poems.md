@@ -366,6 +366,9 @@ So don't bring too much on the road.
 
 
 Don't despair, God's dear child,
+
 We are of heaven, but for now exiled.
+
 One day we'll rejoice in God's light,
+
 But while we live, we must stand and fight.
